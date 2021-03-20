@@ -1,1 +1,1 @@
-we put README.txt on master first
+we put README.txt on master first and changed user name
